@@ -1,0 +1,29 @@
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:600italic,400,700,600|Open+Sans+Condensed:700);
+
+.deck-container.keydown {
+	background-color: white;
+}
+
+
+.deck-container.keydown .slide.node {
+	background-color: #46483e;
+}
+
+
+/* %link{:href => 'http://fonts.googleapis.com/css?family=Lato:300,400,700',
+      :rel => 'stylesheet',
+      :type =>'text/css'}
+*/
+/* Custom CSS for your KeyDown presentation here */
+
+/* Uncomment to turn off deck.js navigation */
+/*.deck-prev-link,*/
+/*.deck-next-link {*/
+    /*display: none;*/
+/*}*/
+
+/* Uncomment to turn off deck.js status */
+/*.deck-status {*/
+    /*display: none;*/
+/*}*/
+
