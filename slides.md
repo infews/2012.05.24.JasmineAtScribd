@@ -54,10 +54,10 @@
 
 !SLIDE
 
-# (Follow along at home)
+## (Follow along at home)
 
-## [https://github.com/infews/jasmine_example_project](https://github.com/infews/jasmine_example_project)
-
+### [Example Project](https://github.com/infews/jasmine_example_project)
+`github.com/infews/jasmine_example_project`
 
 !SLIDE
 
@@ -92,7 +92,7 @@ describe("Ball", function () {
 
 !SLIDE
 
-# RED
+![Red 1](images/red_1.png)
 
 !SLIDE
 
@@ -116,7 +116,7 @@ function Ball() {
 
 !SLIDE
 
-# GREEN
+![Green 1](images/green_1.png)
 
 !SLIDE
 
@@ -186,7 +186,7 @@ describe("Game", function () {
 
 !SLIDE
 
-# RED
+![Red 2](images/red_2.png)
 
 !SLIDE
 
@@ -207,7 +207,7 @@ function Game() {
 ```
 !SLIDE
 
-# GREEN
+![Green 2](images/green_2.png)
 
 !SLIDE
 
@@ -465,7 +465,7 @@ describe("Basketball Game", function() {
 
 !SLIDE
 
-# RED
+![Red 3](images/red_3.png)
 
 !SLIDE
 
@@ -509,7 +509,7 @@ function BasketballGame() {
 
 !SLIDE
 
-# GREEN
+![Green 3](images/green_3.png)
 
 !SLIDE
 
